@@ -10,7 +10,7 @@ IEEE HITSB Tech Talk 2026, serving 430+ registered students.
 - **Frontend** — HTML, CSS, JavaScript
 - **Backend** — Google Apps Script (REST API)
 - **Database** — Google Sheets
-- **Hosting** — Netlify / GitHub Pages
+- **Hosting** — GitHub Pages
 - **Other** — QR Code Integration
 
 ## ✨ Features
@@ -28,8 +28,9 @@ Registration Form → Google Sheet → Apps Script API
 → Verification Website → QR Code on Certificate
 
 ## 📸 Screenshots
-![Home](screenshot1.png)
-![Verify](screenshot2.png)
+![Home](s1.png)
+![Verify](s2.png)
+![Toggle](s3.png)
 
 ## 👨‍💻 Built By
 Sattwik Dhara — for IEEE HITSB, Haldia Institute of Technology
